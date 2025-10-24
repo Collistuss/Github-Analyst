@@ -1,0 +1,8 @@
+Flask
+python-dotenv
+requests
+google-generativeai
+google-cloud-bigquery
+pandas
+google-generativeai
+google-cloud-language
